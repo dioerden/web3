@@ -11,8 +11,10 @@ This project performs a due diligence analysis on **Farcaster (Base)** using On-
 3.  **[Bot Detection Algo (SQL)](sql/bot_detection.sql)**: Logic to flag wallets with high-frequency spam behavior.
 
 ## 📊 Findings (Simulated)
+![Bot Distribution](../assets/bot_distribution.png)
+
 *   **Vanity Metric:** 100k+ Registered IDs.
-*   **Reality:** Only 12% of users are "Middle Class" (posting >3 times/week).
+*   **Reality:** Only 40% of users are "Organic" (posting meaningful content). 60% are lurking or farming.
 *   **Verdict:** **Bullish**. Despite the bot noise, the core retention of 12% is significantly higher than competitor SocialFi apps.
 
 ## 🛠 Tech Stack
