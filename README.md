@@ -1,4 +1,4 @@
-# Web3 VC Data Scientist Portfolio: Protocol Health Analysis
+# ChainPulse: On-Chain Due Diligence Lab
 
 > **Objective:** Evaluate the organic traction and economic sustainability of a GameFi/SocialFi protocol to determine investment viability for a Venture Capital firm.
 
@@ -28,7 +28,7 @@ We define **Real Traction** using the following filter:
 ## 🚀 Quick Start
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/dioerden/web3.git
+    git clone https://github.com/dioerden/chainpulse.git
     ```
 2.  Install dependencies:
     ```bash
@@ -44,4 +44,4 @@ We define **Real Traction** using the following filter:
 2.  **[SocialFi Real User Index (Farcaster)](socialfi_index/README.md)**: Sybil detection & Power User curves.
 
 ---
-*Created by [Your Name] as a Data Science Portfolio Project.*
+*ChainPulse Lab © 2024*
