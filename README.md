@@ -39,5 +39,9 @@ We define **Real Traction** using the following filter:
     python scripts/traction_analysis.py
     ```
 
+## 🧩 Portfolio Projects
+1.  **[GameFi Lifecycle Analysis](docs/investment_memo.md)**: Cohort retention & tokenomics.
+2.  **[SocialFi Real User Index (Farcaster)](socialfi_index/README.md)**: Sybil detection & Power User curves.
+
 ---
 *Created by [Your Name] as a Data Science Portfolio Project.*
